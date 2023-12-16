@@ -1,0 +1,883 @@
+/* screen - web-1366-1 */
+
+.web-1366-1 {
+  background-color: #eeeeee;
+  cursor: pointer;
+  height: 2668px;
+  opacity: 0;
+  position: relative;
+  transform: scale(1.1);
+  transition: all 0.2s ease;
+  width: 1366px;
+}
+
+.web-1366-1.animate-enter3 {
+  animation: animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter3-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.web-1366-1:hover {
+  background-color: #fff
+}
+
+.web-1366-1 .overlap-group4 {
+  height: 1113px;
+  left: 0;
+  position: absolute;
+  top: -7px;
+  width: 1366px;
+}
+
+.web-1366-1 .component-3-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 0;
+  min-height: 136px;
+  position: absolute;
+  top: 266px;
+  width: 1366px;
+}
+
+.web-1366-1 .navbar {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 98px;
+  justify-content: flex-end;
+  min-width: 1366px;
+  padding: 12px 30px;
+}
+
+.web-1366-1 .navbar-link-place {
+  min-width: 48px;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+.web-1366-1 .navbar-link-place.animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.web-1366-1 .navbar-link-about {
+  cursor: pointer;
+  margin-left: 56px;
+  min-width: 48px;
+}
+
+.web-1366-1 .navbar-link-services {
+  margin-left: 61px;
+  min-width: 64px;
+}
+
+.web-1366-1 .navbar-link-place-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 1.5px;
+  margin-left: 47px;
+  min-height: 29px;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-1 .phoneicon {
+  height: 32px;
+  margin-right: 135.88px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.web-1366-1 .rectangle-48 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 749px;
+  left: 0;
+  position: absolute;
+  top: 364px;
+  width: 1366px;
+}
+
+.web-1366-1 .component-7-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 296px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 0;
+}
+
+.web-1366-1 .overlap-group1 {
+  height: 296px;
+  position: relative;
+  width: 1366px;
+}
+
+.web-1366-1 .rectangle-63 {
+  height: 287px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1366px;
+}
+
+.web-1366-1 .rectangle-64 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  filter: blur(50px);;
+  height: 224px;
+  left: 860px;
+  opacity: 0.91;
+  position: absolute;
+  top: 9px;
+  width: 486px;
+}
+
+.web-1366-1 .myscopelogo {
+  height: 212px;
+  left: 845px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 516px;
+}
+
+.web-1366-1 .icon-material-email {
+  cursor: pointer;
+  display: block;
+  height: 28px;
+  left: 90px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 314px;
+  transform: rotate(25deg);
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.web-1366-1 .icon-material-email.animate-enter1 {
+  animation: animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: rotate(25deg);
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+transform: rotate(25deg);
+}
+to{opacity: 1;
+transform: rotate(0);
+}
+}
+
+.web-1366-1 .icon-material-email:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-1 .icon-awesome-phone {
+  cursor: pointer;
+  display: block;
+  height: 36px;
+  left: 211px;
+  opacity: 0;
+  top: 310px;
+  width: 36px;
+}
+
+.web-1366-1 .icon-awesome-phone.animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease-in 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1366-1 .icon-awesome-home {
+  height: 31px;
+  left: 748px;
+  top: 312px;
+  width: 41px;
+}
+
+.web-1366-1 .cover {
+  height: 748px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 365px;
+  width: 1364px;
+}
+
+.web-1366-1 .group-36 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 17px;
+  left: 210px;
+  min-height: 1000px;
+  top: 1139px;
+  width: 963px;
+}
+
+.web-1366-1 .overlap-group2 {
+  height: 881px;
+  position: relative;
+  width: 963px;
+}
+
+.web-1366-1 .rectangle-5 {
+  background-color: var(--cararra);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 881px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+.web-1366-1 .rectangle-5-1 {
+  left: 328px;
+}
+
+.web-1366-1 .rectangle-5-2 {
+  left: 654px;
+}
+
+.web-1366-1 .repeat-grid-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 59px;
+  left: 0;
+  min-width: 963px;
+  position: absolute;
+  top: 0;
+}
+
+.web-1366-1 .repeat-grid-2-item {
+  background-color: var(--astral);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 59px;
+  width: 307px;
+}
+
+.web-1366-1 .title {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.web-1366-1 .why-choose-us {
+  left: 375px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.web-1366-1 .to-provide-ethical-a {
+  color: var(--black);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  width: 250px;
+}
+
+.web-1366-1 .we-are-regulatedw {
+  color: var(--black);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xs);
+  font-weight: bold;
+  height: 177px;
+  left: 331px;
+  letter-spacing: 0;
+  line-height: 19px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  width: 301px;
+}
+
+.web-1366-1 .span0 {
+  color: #0491ef;
+  font-size: x-large;
+  
+}
+
+.web-1366-1 .timely-servicewe {
+  color: var(--black);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xxxs);
+  font-weight: bold;
+  height: 149px;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 462px;
+  width: 280px;
+}
+
+.web-1366-1 .span1 {
+  color: #069cff;
+  font-size: var(--font-size-m);
+}
+
+.web-1366-1 .our-services {
+  left: 737px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.web-1366-1 .group-13 {
+  align-items: flex-end;
+  background-color: var(--white);
+  height: 32px;
+  justify-content: flex-end;
+  left: 654px;
+  min-width: 309px;
+  padding: 0 57px;
+  top: 75px;
+}
+
+.web-1366-1 .canada-visitor-visa {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -7.5px;
+  min-height: 33px;
+  min-width: 194px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-1 .group-14 {
+  align-items: flex-end;
+  background-color: var(--white);
+  cursor: pointer;
+  height: 32px;
+  justify-content: flex-end;
+  left: 654px;
+  min-width: 309px;
+  padding: 0 62px;
+  top: 124px;
+}
+
+.web-1366-1 .canada-super-visa {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -7.5px;
+  min-height: 33px;
+  min-width: 184px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-1 .group-15 {
+  align-items: flex-end;
+  background-color: var(--white);
+  cursor: pointer;
+  height: 32px;
+  justify-content: flex-end;
+  left: 654px;
+  min-width: 309px;
+  padding: 0 50px;
+  top: 173px;
+}
+
+.web-1366-1 .canada-student-visa {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -7.5px;
+  min-height: 33px;
+  min-width: 208px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-1 .group-16 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 32px;
+  left: 654px;
+  top: 223px;
+  width: 309px;
+}
+
+.web-1366-1 .canada-post-study-visa {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -7.5px;
+  margin-left: 38px;
+  margin-right: 37px;
+  margin-top: 6.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.web-1366-1 .group-17 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 32px;
+  left: 654px;
+  top: 272px;
+  width: 309px;
+}
+
+.web-1366-1 .canada-work-permits {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -7.5px;
+  margin-left: 45px;
+  margin-right: 44px;
+  margin-top: 6.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.web-1366-1 .group-18 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 32px;
+  left: 654px;
+  top: 321px;
+  width: 309px;
+}
+
+.web-1366-1 .permanent-residency-pathways {
+  color: var(--picton-blue);
+  flex: 1;
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -5.5px;
+  margin-left: 10px;
+  margin-right: 9px;
+  margin-top: 8.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 290px;
+}
+
+.web-1366-1 .group-19 {
+  align-items: flex-end;
+  background-color: var(--white);
+  cursor: pointer;
+  height: 32px;
+  left: 654px;
+  top: 370px;
+  width: 309px;
+}
+
+.web-1366-1 .family-sponsorship-other-services {
+  color: var(--picton-blue);
+  flex: 1;
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-bottom: -4.0px;
+  margin-left: 7px;
+  margin-right: 6px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-1 .group-20 {
+  background-color: var(--white);
+  height: 32px;
+  left: 652px;
+  top: 420px;
+  width: 309px;
+}
+
+.web-1366-1 .citizenship-application {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -7.5px;
+  margin-left: 39px;
+  margin-right: 38px;
+  margin-top: 6.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 232px;
+}
+
+.web-1366-1 .group-21 {
+  background-color: var(--white);
+  height: 32px;
+  left: 652px;
+  top: 469px;
+  width: 309px;
+}
+
+.web-1366-1 .pr-card-application-renew {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -7.5px;
+  margin-left: 13px;
+  margin-right: 12px;
+  margin-top: 6.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 284px;
+}
+
+.web-1366-1 .group-22 {
+  align-items: flex-end;
+  background-color: var(--white);
+  height: 32px;
+  justify-content: flex-end;
+  left: 651px;
+  min-width: 309px;
+  padding: 0 67px;
+  top: 518px;
+}
+
+.web-1366-1 .change-of-status {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -7.5px;
+  min-height: 33px;
+  min-width: 174px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-1 .rcic_en_horz_clr_pos {
+  height: 138px;
+  left: 338px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 286px;
+}
+
+.web-1366-1 .rectangle-49 {
+  height: 529px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 278px;
+}
+
+.web-1366-1 .solution {
+  height: 249px;
+  left: 664px;
+  object-fit: cover;
+  position: absolute;
+  top: 585px;
+  width: 287px;
+}
+
+.web-1366-1 .free-initial-consul {
+  color: #0096f9;
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-m);
+  font-weight: bold;
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 651px;
+  width: 288px;
+}
+
+.web-1366-1 .canada-offers-a-very {
+  color: var(--black);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2.14px;
+  min-height: 104px;
+  text-align: center;
+  width: 952px;
+}
+
+.web-1366-1 .flex-col {
+  align-items: flex-end;
+  background-color: var(--midnight-blue);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  left: 0;
+  min-height: 484px;
+  padding: 21px 223.5px;
+  position: absolute;
+  top: 2184px;
+  width: 1366px;
+}
+
+.web-1366-1 .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 11px;
+  height: 30px;
+  margin-left: 40.3px;
+  min-width: 350px;
+}
+
+.web-1366-1 .place {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 29px;
+  text-align: center;
+  width: 75px;
+}
+
+.web-1366-1 .about {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 29px;
+  text-align: center;
+  width: 75px;
+}
+
+.web-1366-1 .services {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 29px;
+  text-align: center;
+  width: 91px;
+}
+
+.web-1366-1 .place-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  line-height: 18px;
+  min-height: 29px;
+  width: 75px;
+}
+
+.web-1366-1 .flex-col-1 {
+  gap: 45px;
+  min-height: 366px;
+  width: 784px;
+}
+
+.web-1366-1 .line-4 {
+  height: 1px;
+  margin-right: 39.58px;
+  object-fit: cover;
+  width: 623px;
+}
+
+.web-1366-1 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 160px;
+  height: 320px;
+  min-width: 784px;
+}
+
+.web-1366-1 .flex-col-2 {
+  min-height: 320px;
+  width: 321px;
+}
+
+.web-1366-1 .place-2 {
+  color: var(--white);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  line-height: 20px;
+  margin-right: 11.09px;
+  min-height: 33px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.web-1366-1 .address {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 51px;
+  min-height: 164px;
+  text-align: center;
+  width: 321px;
+}
+
+.web-1366-1 .x2023-by-moesgrafix {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 22px;
+  min-height: 50px;
+  text-align: center;
+  width: 321px;
+}
+
+.web-1366-1 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 23.82px;
+  min-height: 227px;
+  width: 303px;
+}
+
+.web-1366-1 .overlap-group5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 46px;
+  margin-left: 1.0px;
+  min-width: 302px;
+  padding: 2px 6.0px;
+}
+
+.web-1366-1 .overlap-group7 {
+  height: 46px;
+  margin-top: 44px;
+  position: relative;
+  width: 303px;
+}
+
+.web-1366-1 .rectangle-71 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 303px;
+}
+
+.web-1366-1 .e-mail {
+  background-color: transparent;
+  border: 0;
+  height: 41px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 26px;
+  padding: 0;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.web-1366-1 .overlap-group6 {
+  height: 32px;
+  margin-top: 60px;
+  position: relative;
+  width: 115px;
+}
+
+.web-1366-1 .component-8-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.web-1366-1 .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.web-1366-1 .icon-awesome {
+  object-fit: cover;
+  position: absolute;
+}
+
+.web-1366-1 .navbar-link {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 1.5px;
+  min-height: 29px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-1 .place-3 {
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.web-1366-1 .rectangle-5-3 {
+  background-color: var(--cararra);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 881px;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}

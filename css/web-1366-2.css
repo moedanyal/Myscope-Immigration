@@ -1,0 +1,339 @@
+/* screen - web-1366-2 */
+
+.web-1366-2 {
+  cursor: pointer;
+  height: 2668px;
+  opacity: 0;
+  overflow: hidden;
+  position: relative;
+  transform: scale(1.1);
+  transition: all 0.2s ease;
+  width: 1366px;
+}
+
+.web-1366-2.animate-enter7 {
+  animation: animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter7-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.web-1366-2:hover {
+  background-color: #fff
+}
+
+.web-1366-2 .overlap-group1 {
+  height: 1186px;
+  left: 0;
+  position: absolute;
+  top: -9px;
+  width: 1369px;
+}
+
+.web-1366-2 .rectangle-10 {
+  background-color: var(--white);
+  height: 824px;
+  left: 0;
+  position: absolute;
+  top: 362px;
+  width: 1369px;
+}
+
+.web-1366-2 .myscope-immigration {
+  color: var(--tuatara);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 650px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 505px;
+  width: 714px;
+}
+
+.web-1366-2 .path-1 {
+  height: 104px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 333px;
+  width: 1366px;
+}
+
+.web-1366-2 .title {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 382px;
+  width: 516px;
+}
+
+.web-1366-2 .component-3-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 98px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1366px;
+  padding: 12px 30px;
+  position: absolute;
+  top: 268px;
+}
+
+.web-1366-2 .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 1.5px;
+  min-height: 29px;
+  min-width: 48px;
+  opacity: 0;
+  text-align: center;
+  transform: scale(1.1);
+  white-space: nowrap;
+}
+
+.web-1366-2 .place.animate-enter6 {
+  animation: animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter6-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.web-1366-2 .about {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 0.5px;
+  margin-left: 56px;
+  min-height: 29px;
+  min-width: 48px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-2 .services {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 0.5px;
+  margin-left: 61px;
+  min-height: 29px;
+  min-width: 64px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-2 .place-1 {
+  margin-bottom: 0.5px;
+  margin-left: 47px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.web-1366-2 .component-7-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 296px;
+  left: 0;
+  min-width: 1359px;
+  position: absolute;
+  top: 0;
+}
+
+.web-1366-2 .overlap-group {
+  height: 296px;
+  position: relative;
+  width: 1359px;
+}
+
+.web-1366-2 .rectangle-63 {
+  height: 287px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1359px;
+}
+
+.web-1366-2 .rectangle-64 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  filter: blur(50px);;
+  height: 224px;
+  left: 853px;
+  opacity: 0.91;
+  position: absolute;
+  top: 9px;
+  width: 486px;
+}
+
+.web-1366-2 .myscopelogo {
+  height: 212px;
+  left: 838px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 516px;
+}
+
+.web-1366-2 .group-33 {
+  height: 36px;
+  justify-content: space-between;
+  left: 90px;
+  top: 312px;
+  width: 157px;
+}
+
+.web-1366-2 .icon-material-email {
+  cursor: pointer;
+  margin-bottom: 4px;
+  margin-left: 0;
+  margin-top: 4.0px;
+  object-fit: cover;
+  width: 41.79px;
+}
+
+.web-1366-2 .icon-awesome-phone {
+  cursor: pointer;
+  margin-bottom: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 36px;
+}
+
+.web-1366-2 .icon-awesome-home {
+  height: 31px;
+  left: 748px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 41px;
+}
+
+.web-1366-2 .rectangle-69 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 633px;
+  left: 18px;
+  position: absolute;
+  top: 501px;
+  width: 580px;
+}
+
+.web-1366-2 .overlap-group2 {
+  height: 476px;
+  left: -6px;
+  position: absolute;
+  top: 2192px;
+  width: 1392px;
+}
+
+.web-1366-2 .rectangle-32 {
+  background-color: var(--midnight-blue);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 476px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.web-1366-2 .mask-group-2 {
+  height: 358px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1392px;
+}
+
+.web-1366-2 .group-32 {
+  align-items: flex-start;
+  height: 69px;
+  left: 82px;
+  min-width: 1217px;
+  top: 386px;
+}
+
+.web-1366-2 .x2023-by-moesgrafix {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 0.5px;
+  min-height: 50px;
+  text-align: center;
+  width: 523px;
+}
+
+.web-1366-2 .place-2 {
+  margin-left: 207px;
+  margin-top: 9.5px;
+  width: 87px;
+}
+
+.web-1366-2 .about-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 13px;
+  margin-top: 9.5px;
+  min-height: 29px;
+  text-align: center;
+  width: 87px;
+}
+
+.web-1366-2 .services-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 13px;
+  margin-top: 9.5px;
+  min-height: 29px;
+  text-align: center;
+  width: 105px;
+}
+
+.web-1366-2 .place-3 {
+  align-self: center;
+  margin-bottom: 19.0px;
+  margin-left: 13px;
+  width: 87px;
+}
+
+.web-1366-2 .stamp {
+  height: 975px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1195px;
+  width: 1366px;
+}
+
+.web-1366-2 .place-4 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 29px;
+  text-align: center;
+}

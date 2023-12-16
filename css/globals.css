@@ -1,0 +1,93 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web:300,400,700,600");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/654b06690acca1c78c84ff75.654b066a0acca1c78c84ff78.eyLPiwH.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.align-self-flex-center {
+  align-self: flex-center;
+}
+
+input:focus {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.rectangle-65 {
+  height: 43px;
+  margin-left: 43px;
+  object-fit: cover;
+  width: 112px;
+}
+
+.your-name {
+  background-color: transparent;
+  border: 0;
+  height: 41px;
+  letter-spacing: 0;
+  line-height: 26px;
+  padding: 0;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.your-name::placeholder {
+  color: #00000099;
+}
+
+.e-mail::placeholder {
+  color: #00000099;
+}
+
+.submit {
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-titillium_web);
+  font-size: 15px;
+  font-weight: 400;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.group {
+  display: flex;
+  position: absolute;
+}
+
+.line-1 {
+  height: 69px;
+  margin-left: 81px;
+  object-fit: cover;
+  width: 1px;
+}

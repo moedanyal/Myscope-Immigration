@@ -1,0 +1,135 @@
+:root { 
+  --astral: #2e79aa;
+  --black: #000000;
+  --cararra: #eee8e8;
+  --chathams-blue: #0e5082;
+  --cloud: #c5c3c3;
+  --dove-gray: #707070;
+  --midnight-blue: #084878;
+  --picton-blue: #3eabf3;
+  --tuatara: #363434;
+  --white: #ffffff;
+ 
+  --font-size-l: 26px;
+  --font-size-m: 22px;
+  --font-size-s: 20px;
+  --font-size-xl: 30px;
+  --font-size-xs: 18px;
+  --font-size-xxs: 16px;
+  --font-size-xxxs: 14px;
+ 
+  --font-family-titillium_web: "Titillium Web", Helvetica;
+}
+.titilliumweb-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.titilliumweb-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.titilliumweb-normal-tuatara-22px {
+  color: var(--tuatara);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.titilliumweb-bold-chathams-blue-22px {
+  color: var(--chathams-blue);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.titilliumweb-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.titilliumweb-normal-tuatara-26px {
+  color: var(--tuatara);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.titilliumweb-bold-picton-blue-20px {
+  color: var(--picton-blue);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.titilliumweb-bold-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.titilliumweb-normal-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+
+ 
+}
+
+.titilliumweb-light-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.titilliumweb-normal-cloud-22px {
+  color: var(--cloud);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.titilliumweb-bold-chathams-blue-26px {
+  color: var(--chathams-blue);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.titilliumweb-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.titilliumweb-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}

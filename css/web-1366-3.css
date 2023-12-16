@@ -1,0 +1,469 @@
+/* screen - web-1366-3 */
+
+.web-1366-3 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 2668px;
+  opacity: 0;
+  overflow: hidden;
+  position: relative;
+  transform: scale(1.1);
+  transition: all 0.2s ease;
+  width: 1366px;
+}
+
+.web-1366-3.animate-enter15 {
+  animation: animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter15-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.web-1366-3:hover {
+  background-color: #fff
+}
+
+.web-1366-3 .overlap-group5 {
+  height: 1628px;
+  left: -2px;
+  position: absolute;
+  top: 1040px;
+  width: 1402px;
+}
+
+.web-1366-3 .ellipse-1 {
+  border-radius: 288px;
+  height: 576px;
+  left: 411px;
+  object-fit: cover;
+  position: absolute;
+  top: 792px;
+  width: 576px;
+}
+
+.web-1366-3 .group-4 {
+  align-items: flex-start;
+  height: 937px;
+  left: 97px;
+  min-width: 1177px;
+  top: 0;
+}
+
+.web-1366-3 .overlap-group2 {
+  height: 937px;
+  position: relative;
+  width: 379px;
+}
+
+.web-1366-3 .rectangle-12-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 937px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.web-1366-3 .rectangle-13 {
+  background-color: var(--astral);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 379px;
+}
+
+.web-1366-3 .canada-experience-classcec {
+  left: 77px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 29px;
+  width: 261px;
+}
+
+.web-1366-3 .skilled-workers-who {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 165px;
+  width: 358px;
+}
+
+.web-1366-3 .overlap-group {
+  height: 937px;
+  margin-left: 20px;
+  position: relative;
+  width: 380px;
+}
+
+.web-1366-3 .rectangle-12 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 937px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.web-1366-3 .federal-skilled-wor {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 29px;
+  width: 291px;
+}
+
+.web-1366-3 .this-stream-allows-p {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 165px;
+  width: 365px;
+}
+
+.web-1366-3 .overlap-group1 {
+  height: 937px;
+  margin-left: 18px;
+  position: relative;
+  width: 380px;
+}
+
+.web-1366-3 .rectangle-13-1 {
+  background-color: var(--astral);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 118px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 379px;
+}
+
+.web-1366-3 .federal-skilled-trade-worker-classfst {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 365px;
+}
+
+.web-1366-3 .applicants-applying {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 162px;
+  width: 351px;
+}
+
+.web-1366-3 .rectangle-32 {
+  background-color: var(--midnight-blue);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 474px;
+  left: 0;
+  position: absolute;
+  top: 1154px;
+  width: 1366px;
+}
+
+.web-1366-3 .mask-group-3 {
+  height: 355px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 1155px;
+  width: 1393px;
+}
+
+.web-1366-3 .group-32 {
+  align-items: flex-start;
+  height: 69px;
+  left: 78px;
+  min-width: 1217px;
+  top: 1534px;
+}
+
+.web-1366-3 .x2023-by-moesgrafix {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 0.5px;
+  min-height: 50px;
+  text-align: center;
+  width: 523px;
+}
+
+.web-1366-3 .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 207px;
+  margin-top: 9.5px;
+  min-height: 29px;
+  text-align: center;
+  width: 87px;
+}
+
+.web-1366-3 .about {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 13px;
+  margin-top: 9.5px;
+  min-height: 29px;
+  text-align: center;
+  width: 87px;
+}
+
+.web-1366-3 .services {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 13px;
+  margin-top: 9.5px;
+  min-height: 29px;
+  text-align: center;
+  width: 105px;
+}
+
+.web-1366-3 .place-1 {
+  align-self: center;
+  cursor: pointer;
+  margin-bottom: 19.0px;
+  margin-left: 13px;
+  width: 87px;
+}
+
+.web-1366-3 .can-container {
+  height: 587px;
+  left: 26px;
+  position: absolute;
+  top: 429px;
+  width: 1316px;
+}
+
+.web-1366-3 .express-entry-cana {
+  color: var(--tuatara);
+  font-family: var(--font-family-titillium_web);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  width: 1316px;
+}
+
+.web-1366-3 .this-program-can-be {
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 546px;
+  width: 1110px;
+}
+
+.web-1366-3 .overlap-group4 {
+  height: 438px;
+  left: 0;
+  position: absolute;
+  top: -9px;
+  width: 1366px;
+}
+
+.web-1366-3 .rectangle-14 {
+  background-color: var(--astral);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 343px;
+  width: 1366px;
+}
+
+.web-1366-3 .permanent-immigration-pathways {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 384px;
+  width: 516px;
+}
+
+.web-1366-3 .component-3-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 98px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1366px;
+  padding: 17px 30px;
+  position: absolute;
+  top: 273px;
+}
+
+.web-1366-3 .place-2 {
+  margin-bottom: 2.5px;
+  min-width: 48px;
+  opacity: 0;
+  transform: scale(1.1);
+  white-space: nowrap;
+}
+
+.web-1366-3 .place-2.animate-enter14 {
+  animation: animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter14-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.web-1366-3 .about-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 1.5px;
+  margin-left: 56px;
+  min-height: 29px;
+  min-width: 48px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-3 .services-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 1.5px;
+  margin-left: 61px;
+  min-height: 29px;
+  min-width: 64px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1366-3 .place-3 {
+  cursor: pointer;
+  margin-bottom: 1.5px;
+  margin-left: 47px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.web-1366-3 .component-7-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 296px;
+  left: 0;
+  min-width: 1359px;
+  position: absolute;
+  top: 0;
+}
+
+.web-1366-3 .overlap-group3 {
+  height: 296px;
+  position: relative;
+  width: 1359px;
+}
+
+.web-1366-3 .rectangle-63 {
+  height: 287px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1359px;
+}
+
+.web-1366-3 .rectangle-64 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  filter: blur(50px);;
+  height: 224px;
+  left: 853px;
+  opacity: 0.91;
+  position: absolute;
+  top: 9px;
+  width: 486px;
+}
+
+.web-1366-3 .myscopelogo {
+  height: 212px;
+  left: 838px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 516px;
+}
+
+.web-1366-3 .group-33 {
+  cursor: pointer;
+  height: 36px;
+  justify-content: space-between;
+  left: 90px;
+  top: 312px;
+  width: 157px;
+}
+
+.web-1366-3 .icon-material-email {
+  margin-bottom: 4px;
+  margin-left: 0;
+  margin-top: 4.0px;
+  object-fit: cover;
+  width: 41.79px;
+}
+
+.web-1366-3 .icon-awesome-phone {
+  margin-bottom: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 36px;
+}
+
+.web-1366-3 .icon-awesome-home {
+  height: 31px;
+  left: 748px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 41px;
+}
+
+.web-1366-3 .place-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 29px;
+  text-align: center;
+}
